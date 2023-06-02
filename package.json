@@ -1,0 +1,11 @@
+{
+  "name": "pizybo",
+  "version": "1.0.0",
+  "description": "this is a nodejs express project to upload .bit file in zybo board through raspberrypi and controlling the pmod of zybo board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "musfiqpolash",
+  "license": "ISC"
+}
